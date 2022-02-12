@@ -1,0 +1,43 @@
+#start{
+    margin-bottom: 50px;
+    font-size: 20px;
+    width: 15%;
+    letter-spacing: 3px;
+}
+
+.heading{
+    font-size: 35px;
+    letter-spacing: 2px;
+    width: 100%;
+    font-family: 'Syne Tactile', cursive;
+}
+
+#num, #status{
+    font-size: 20px;
+    letter-spacing: 1px;
+}
+
+body{
+    background: url("background.jpg");
+    background-size: cover;
+}
+
+#down{
+    letter-spacing: 2px;
+    font-family: 'Syne Tactile', cursive;
+    font-size: 20px;
+}
+
+#footer{
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    background-color: lightcoral;
+    width: 100%;
+}
+
+canvas{
+    border: solid 1px black;
+    margin-top: 130px;
+    box-shadow: 1px 1px 38px yellow;
+}
